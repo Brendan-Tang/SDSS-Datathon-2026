@@ -10,7 +10,7 @@
 - [Approach](#approach)
 - [Tech Stack](#tech-stack)
 - [Contributors](#contributors)
-- [AI](#🤖-ai-assistance)
+- [AI Statement](#🤖-ai-assistance)
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
