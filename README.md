@@ -63,7 +63,7 @@ We explored domestic U.S. airfare markets to understand what drives ticket price
 
 | Name | Role |
 |------|------|
-| Brendan Tang | Visualization, Modeling, Design |
+| Brendan Tang | Design, Visualization, Modeling |
 | James Shin | Visualization, Modeling, Insights |
 | Alejandro Salazar Rueda | Feature Engineering, Visualization, Modeling |
 | Dipon Roy | Visualization, Modeling, Storytelling |
