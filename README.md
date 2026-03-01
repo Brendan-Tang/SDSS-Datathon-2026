@@ -9,10 +9,10 @@
 - [Key Findings](#key-findings)
 - [Approach](#approach)
 - [Tech Stack](#tech-stack)
+- [References](#references)
 - [Contributors](#contributors)
 - [AI Statement](#-ai-assistance)
 - [Acknowledgements](#acknowledgements)
-- [References](#references)
 
 ## Overview
 This project was submitted as part of the SDSS Datathon 2026 for students in Data Science and Statistics. The competition challenged participants to rigorously analyze domestic U.S. airfare markets and translate findings into actionable insights for travelers, airlines, and policymakers.
