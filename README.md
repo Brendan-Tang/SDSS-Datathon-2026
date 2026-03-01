@@ -1,5 +1,5 @@
 # ✈️ Airfare Markets Under Pressure
-> A data science project analyzing domestic U.S. airfare dynamics using U.S. Department of Transportation data (2022–2025 Q2). 
+> A data science project analyzing domestic U.S. airfare dynamics using U.S. Department of Transportation data (2022-2025 Q2). 
 
 **Event:** SDSS Datathon 2026
 
@@ -15,7 +15,7 @@
 This project was submitted as part of the SDSS Datathon 2026 for students in Data Science and Statistics. The competition challenged participants to rigorously analyze domestic U.S. airfare markets and translate findings into actionable insights for travelers, airlines, and policymakers.
 
 - **Data Source:** U.S. Department of Transportation Domestic Airline Consumer Airfare Report
-- **Period Covered:** 2022 – 2025 (Q2)
+- **Period Covered:** 2022 - 2025 (Q2)
 
 ## What We Did
 We explored domestic U.S. airfare markets to understand what drives ticket prices beyond the anecdotal advice consumers typically hear. Using route-based data from the U.S. DOT, we investigated the structural forces behind fare differences, including airline competition, hub dominance, low-cost carrier presence, and weather.
@@ -42,6 +42,22 @@ We explored domestic U.S. airfare markets to understand what drives ticket price
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AE0?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### **Machine Learning Libraries**
+- **[Scikit-learn](https://github.com/scikit-learn/scikit-learn)** (BSD-3 License) - Used for regression models and preprocessing.
+- **[XGBoost](https://github.com/dmlc/xgboost)** (Apache 2.0 License) - Used for gradient boosting regression.
+
+### **Data Handling & Computation**
+- **[Pandas](https://github.com/pandas-dev/pandas)** (BSD-3 License) - Used for data manipulation and analysis.
+- **[NumPy](https://github.com/numpy/numpy)** (BSD License) - Used for numerical computing.
+
+### **Data Visualization**
+- **[Matplotlib](https://github.com/matplotlib/matplotlib)** (PSF License) - Used for data visualization.
+- **[Seaborn](https://github.com/mwaskom/seaborn)** (BSD License) - Used for statistical data visualization.
+  
+### Environment
+- **[Jupyter](https://github.com/jupyter/notebook)** (BSD-3 License) - Used for interactive notebook development and analysis.
 
 ## Contributors
 
