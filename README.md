@@ -49,6 +49,7 @@ We explored domestic U.S. airfare markets to understand what drives ticket price
 ### **Machine Learning Libraries**
 - **[Scikit-learn](https://github.com/scikit-learn/scikit-learn)** (BSD-3 License) - Used for regression models and preprocessing.
 - **[XGBoost](https://github.com/dmlc/xgboost)** (Apache 2.0 License) - Used for gradient boosting regression.
+- **[SHAP](https://github.com/slundberg/shap)** (MIT License) — Used for model explainability and feature importance analysis.
 
 ### **Data Handling & Computation**
 - **[Pandas](https://github.com/pandas-dev/pandas)** (BSD-3 License) - Used for data manipulation and analysis.
