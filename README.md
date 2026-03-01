@@ -89,7 +89,7 @@ This project was developed with guidance from **LLMs**.
 cite original papers, documentation, or official data sources.*
 
 ## Acknowledgements
-We thank the organizers of the SDSS Datathon 2026 for hosting  SDSS Datathon 2026 and providing the opportunity to explore real-world transportation pricing dynamics.
+We thank the organizers of the SDSS Datathon 2026 for hosting the competition and providing the opportunity to explore real-world transportation pricing dynamics.
 
 Data for this project was obtained from the Domestic Airline Consumer Airfare Report published by the United States Department of Transportation.
 
