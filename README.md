@@ -42,13 +42,13 @@ We explored domestic U.S. airfare markets to understand what drives ticket price
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AE0?style=for-the-badge&logo=xgboost&logoColor=white)
+<!-- ![XGBoost](https://img.shields.io/badge/XGBoost-189AE0?style=for-the-badge&logo=xgboost&logoColor=white) -->
 ![SHAP](https://img.shields.io/badge/SHAP-FF0000?style=for-the-badge&logo=python&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Machine Learning Libraries**
 - **[Scikit-learn](https://github.com/scikit-learn/scikit-learn)** (BSD-3 License) - Used for regression models and preprocessing.
-- **[XGBoost](https://github.com/dmlc/xgboost)** (Apache 2.0 License) - Used for gradient boosting regression.
+<!-- - **[XGBoost](https://github.com/dmlc/xgboost)** (Apache 2.0 License) - Used for gradient boosting regression. -->
 - **[SHAP](https://github.com/slundberg/shap)** (MIT License) — Used for model explainability and feature importance analysis.
 
 ### **Data Handling & Computation**
