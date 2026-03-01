@@ -10,6 +10,8 @@
 - [Approach](#approach)
 - [Tech Stack](#tech-stack)
 - [Contributors](#contributors)
+- [AI](#🤖-ai-assistance)
+- [Acknowledgements](#acknowledgements)
 
 ## Overview
 This project was submitted as part of the SDSS Datathon 2026 for students in Data Science and Statistics. The competition challenged participants to rigorously analyze domestic U.S. airfare markets and translate findings into actionable insights for travelers, airlines, and policymakers.
@@ -79,4 +81,7 @@ This project was developed with guidance from **LLMs**.
 
 *All models and, outputs were developed, validated, and  interpreted by the team. AI tools were not used as academic sources; all references 
 cite original papers, documentation, or official data sources.*
+
+## Acknowledgements
+We thank the organizers of the SDSS Datathon 2026 for hosting  SDSS Datathon 2026 and providing the opportunity to explore real-world transportation pricing dynamics.
 
