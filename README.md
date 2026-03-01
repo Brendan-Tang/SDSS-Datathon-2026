@@ -74,4 +74,5 @@ We explored domestic U.S. airfare markets to understand what drives ticket price
 
 ## 🤖 AI Assistance
 This project was developed with guidance from **LLMs**.
+- **Debugging** - identifying and resolving errors in data processing and modeling code
 
