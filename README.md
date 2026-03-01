@@ -20,9 +20,9 @@ This project was submitted as part of the SDSS Datathon 2026 for students in Dat
 We explored domestic U.S. airfare markets to understand what drives ticket prices beyond the anecdotal advice consumers typically hear. Using route-based data from the U.S. DOT, we investigated the structural forces behind fare differences, including airline competition, hub dominance, low-cost carrier presence, and weather.
 
 ## Key Findings
-- Cities with dominant carriers (>70% market share) show significant fare premiums — Charlotte (+15.8%), Salt Lake City (+13%), and Atlanta (+12.4%) command higher prices regardless of flight distance
+- Cities with dominant carriers (>70% market share) show significant fare premiums, Charlotte (+15.8%), Salt Lake City (+13%), and Atlanta (+12.4%) command higher prices regardless of flight distance
 - Distance alone explains ~48% of fare variation (R² = 0.4822), but this correlation has weakened year-over-year (0.654 in 2022 → 0.501 in 2025), meaning market structure is increasingly overtaking geography as the primary pricing driver
-- Adding market structure variables increased R² from 0.4822 to 0.6815 — explaining an additional 28 percentage points of fare variation
+- Adding market structure variables increased R² from 0.4822 to 0.6815, explaining an additional 28 percentage points of fare variation
 - Families and students are disproportionately affected in "Fortress Hub" markets where a single carrier dictates prices
 
 ## Approach
