@@ -1,6 +1,7 @@
 # SDSS-Datathon-2026
-<!-- A brief one-liner describing the datathon challenge and goal. -->
+Analyzing domestic U.S. airfare dynamics using U.S. Department of Transportation data (2022–2025 Q2)
 ## 📌 Table of Contents
+
 ## Overview
 
 ## Contributors
