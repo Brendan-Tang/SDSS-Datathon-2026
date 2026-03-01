@@ -10,8 +10,9 @@
 - [Approach](#approach)
 - [Tech Stack](#tech-stack)
 - [Contributors](#contributors)
-- [AI Statement](#🤖-ai-assistance)
+- [AI Statement](#-ai-assistance)
 - [Acknowledgements](#acknowledgements)
+- [References](#references)
 
 ## Overview
 This project was submitted as part of the SDSS Datathon 2026 for students in Data Science and Statistics. The competition challenged participants to rigorously analyze domestic U.S. airfare markets and translate findings into actionable insights for travelers, airlines, and policymakers.
@@ -65,6 +66,11 @@ We explored domestic U.S. airfare markets to understand what drives ticket price
   
 ### Environment
 - **[Jupyter](https://github.com/jupyter/notebook)** (BSD-3 License) - Used for interactive notebook development and analysis.
+
+## References
+
+- **[U.S. DOT Domestic Airline Consumer Airfare Report](https://www.transportation.gov/policy/aviation-policy/domestic-airline-consumer-airfare-report)** — U.S. Department of Transportation. Primary dataset for route-level fares, passenger volumes, and carrier market shares.
+- **[NOAA Climate Data Online (CDO)](https://www.ncei.noaa.gov/cdo-web/)** — National Centers for Environmental Information, National Oceanic and Atmospheric Administration. Used for weather data.
 
 ## Contributors
 
