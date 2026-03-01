@@ -71,3 +71,7 @@ We explored domestic U.S. airfare markets to understand what drives ticket price
 | James Shin | Visualization, Modeling, Insights |
 | Alejandro Salazar Rueda | Feature Engineering, Visualization, Modeling |
 | Dipon Roy | Visualization, Modeling, Storytelling |
+
+## 🤖 AI Assistance
+This project was developed with guidance from **LLMs**.
+
