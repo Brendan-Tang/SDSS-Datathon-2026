@@ -29,7 +29,7 @@ We explored domestic U.S. airfare markets to understand what drives ticket price
 ## Approach
 
 **Analysis highlights:**
-- Conducted exploratory analysis on route-level fares, hub concentration, and carrier market share across 2022–2025
+- Conducted exploratory analysis on route-level fares, hub concentration, and carrier market share
 - Engineered market structure features including hub dominance index and low-cost carrier presence flags
 - Trained and evaluated multiple models, with a final Random Forest / Gradient Boosting model achieving R² = 0.86 and a Mean Absolute Error of $18.47
 
