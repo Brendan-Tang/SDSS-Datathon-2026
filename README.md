@@ -8,6 +8,7 @@
 - [What We Did](#what-we-did)
 - [Key Findings](#key-findings)
 - [Approach](#approach)
+- [Tech Stack](#tech-stack)
 - [Contributors](#contributors)
 
 ## Overview
