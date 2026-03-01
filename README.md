@@ -53,6 +53,7 @@ We explored domestic U.S. airfare markets to understand what drives ticket price
 ### **Data Handling & Computation**
 - **[Pandas](https://github.com/pandas-dev/pandas)** (BSD-3 License) - Used for data manipulation and analysis.
 - **[NumPy](https://github.com/numpy/numpy)** (BSD License) - Used for numerical computing.
+- **[Statsmodels](https://github.com/statsmodels/statsmodels)** (BSD-3 License) — Used for statistical modeling and regression analysis.
 
 ### **Data Visualization**
 - **[Matplotlib](https://github.com/matplotlib/matplotlib)** (PSF License) - Used for data visualization.
